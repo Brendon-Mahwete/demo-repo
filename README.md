@@ -1,4 +1,4 @@
-# demoe-repo
+# demo-repo
 
 Some description!
 
